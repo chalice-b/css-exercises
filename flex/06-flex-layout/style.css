@@ -30,10 +30,13 @@ input {
 
 ul {
   list-style: none;
+  display: flex;
+  gap: 10px;
 }
 
 a {
   text-decoration: none;
+  color: rgb(73, 73, 73);
 }
 
 .header {
