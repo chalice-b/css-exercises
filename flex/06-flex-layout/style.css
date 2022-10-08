@@ -32,6 +32,8 @@ input {
 ul {
   list-style: none;
   display: flex;
+  margin: 0;
+  padding: 0;
   gap: 10px;
 }
 
@@ -43,14 +45,14 @@ a {
 .header {
   display: flex;
   justify-content: space-between;
-  padding-right: 25px;
+  padding: 16px;
 }
 
 .footer {
   display: flex;
   justify-content: space-between;
   background-color: #eeeeee;
-  padding-right: 25px;
+  padding: 16px;
 }
 
 .content {
