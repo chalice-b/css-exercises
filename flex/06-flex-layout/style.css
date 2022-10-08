@@ -42,14 +42,12 @@ a {
 
 .header {
   display: flex;
-  align-items: flex-start;
   justify-content: space-between;
   padding-right: 25px;
 }
 
 .footer {
   display: flex;
-  align-items: flex-end;
   justify-content: space-between;
   background-color: #eeeeee;
   padding-right: 25px;
